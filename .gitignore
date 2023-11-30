@@ -1,0 +1,13 @@
+.venv
+.chunking
+
+/data/
+/runs/
+
+__pycache__/
+
+.DS_Store
+*.sw?
+
+*.egg-info/
+
